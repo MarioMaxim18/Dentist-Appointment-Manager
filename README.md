@@ -48,7 +48,7 @@
    `git clone https://github.com/MarioMaxim18/Dentist-Appointment-Manager`
 
 2. **Configure Storage**:  
-   Edit the `settings.properties` file to choose your desired repository type (e.g., text, binary, JSON, or DB) and specify file paths or database credentials.
+   Edit the `settings.properties` file to choose your desired repository type (e.g., text, binary, JSON or DB) and specify file paths or database credentials.
 
 3. **Run the Application**:  
    Compile and run the `Main` class in your IDE or terminal.
