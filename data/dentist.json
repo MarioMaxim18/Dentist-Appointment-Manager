@@ -1,0 +1,6 @@
+[
+  {"id":1,"name":"Smith","specialty":"orthodontics","grade":8.5},
+  {"id":2,"name":"Johnson","specialty":"pediatric dentistry","grade":6.0},
+  {"id":3,"name":"Brown","specialty":"endodontics","grade":9.0},
+  {"id":4,"name":"Williams","specialty":"prosthodontics","grade":7.5}
+]

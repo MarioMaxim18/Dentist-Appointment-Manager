@@ -1,0 +1,4 @@
+1,Smith,orthodontics,8.5
+2,Johnson,pediatric dentistry,6.0
+3,Brown,endodontics,9.0
+4,Williams,prosthodontics,7.5
